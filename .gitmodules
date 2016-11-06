@@ -1,3 +1,6 @@
 [submodule "mock_pgoapi"]
 	path = mock_pgoapi
 	url = https://github.com/chenditc/mock_pgoapi.git
+[submodule "pokemon_crawler/crawl_job/mock_pgoapi"]
+	path = pokemon_crawler/crawl_job/mock_pgoapi
+	url = https://github.com/chenditc/mock_pgoapi.git
